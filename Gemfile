@@ -45,7 +45,7 @@ end
 
 
 gem 'country_select'
-gem 'devise'
+gem 'devise', '>= 3.4.1'
 gem 'fog-softlayer'
 gem 'haml-rails'
 gem 'json'
