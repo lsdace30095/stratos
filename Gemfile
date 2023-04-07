@@ -50,7 +50,7 @@ gem 'fog-softlayer'
 gem 'haml-rails'
 gem 'json'
 gem 'responders'
-gem 'sidekiq'
+gem 'sidekiq', '>= 7.0.8'
 gem 'simple_form'
 group :development do
   gem 'better_errors'
